@@ -147,7 +147,7 @@ nav {
   margin-bottom: 24px;
 }
 
-*/Carrito de compraS */
+/*Carrito de compras */
 
 
 .email {
@@ -235,7 +235,7 @@ nav {
   height: 50px;
 }
 
-*/product list */
+ /*Product list*/ 
 
 .cards-container {
   display: grid;
@@ -244,6 +244,7 @@ nav {
   place-content: center;
 }
 .product-card {
+  width: 240px;
   display: grid;
   width: 240px;
 }
